@@ -6,7 +6,7 @@ import openai
 import re
 
 # Set up OpenAI API credentials
-API_KEY = "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"
+API_KEY = "Your Api Key"
 openai.api_key = API_KEY
 
 
